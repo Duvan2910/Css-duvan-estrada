@@ -1,0 +1,11 @@
+body{
+
+    background-image: url("css_logo.png");
+    background-repeat: repeat-x;
+}
+
+body{
+
+    background-image: url("css_logo.png");
+    background-repeat: repeat-y;
+}
