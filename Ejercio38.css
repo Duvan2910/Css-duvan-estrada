@@ -1,0 +1,9 @@
+<p>
+This paragraph has         multiple spaces      and
+a line break, but it will be ignored, as we used the nowrap value. 
+</p>
+p{
+
+    white-space: nowrap;
+    
+}
