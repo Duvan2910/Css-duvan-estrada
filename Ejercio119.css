@@ -1,0 +1,9 @@
+@keyframes colorchange {
+    0% {background-color: red;}
+    100% {background-color: green;}
+ }
+
+ @keyframes colorchange {
+    from {background-color: red;}
+    to {background-color: green;}
+ }
