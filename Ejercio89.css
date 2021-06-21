@@ -1,0 +1,8 @@
+<p>You can insert text, images, and other resources using <strong>:before </strong>pseudo element.</p>
+<p>You can insert text, images, and other resources using <strong>:before </strong>pseudo element.</p>
+<p>You can insert text, images, and other resources using <strong>:before </strong>pseudo element.</p>
+
+p::before{
+
+    content: url("logo.jpg");
+}
