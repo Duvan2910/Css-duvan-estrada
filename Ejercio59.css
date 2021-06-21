@@ -1,0 +1,16 @@
+<table border="1">
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td></td>
+  </tr>
+</table>
+
+table {
+
+    border-collapse: separate;
+    :empty-cells: hide;
+}
