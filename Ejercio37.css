@@ -1,0 +1,13 @@
+<p class="positive">This paragraph is word-spaced at 20px.</p>
+<p class="negative">This paragraph is word-spaced at -5px.</p>
+
+
+p.positive {
+
+    word-spacing:20xp;
+}
+
+p.negative {
+
+    word-spacing: 5px;
+}
