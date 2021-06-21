@@ -1,0 +1,8 @@
+<div>The total width and height of this element is 100px.</div>
+
+div {
+
+    border: 5px solid green;
+    width:90px;
+    height: 90px;
+}
