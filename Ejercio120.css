@@ -1,0 +1,15 @@
+div {
+
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: colorchange;
+    animation-duration: 1s;
+}
+
+@keyframes colorchange {
+
+    0% {background-color: red;}
+    50%{background-color: green;}
+    100%{background-color: blue;}
+}
