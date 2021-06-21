@@ -1,0 +1,12 @@
+<div id="parent">
+   <p>First paragraph</p>
+   <p>Second paragraph</p>
+   <p>Third paragraph</p>
+   <p>Fourth paragraph</p>
+</div>
+
+#parent p: :first-child{
+
+    color:green;
+    text-decoration:underline;
+}
