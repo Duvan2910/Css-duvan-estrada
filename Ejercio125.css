@@ -1,0 +1,15 @@
+div.x{
+
+    transform: rotatex(150deg);
+
+}
+
+div.y{
+
+    transform: rotatey(150deg);
+}
+
+div.z {
+
+    transform: rotatez(150deg);
+}
