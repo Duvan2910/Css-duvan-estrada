@@ -1,0 +1,12 @@
+<h1>This is a heading</h1>
+<p class="example">This is a paragraph</p>
+
+h1 {
+
+    color:#0000ff;
+}
+
+p.example {
+
+    color:rgb(red, green, blue)
+}
