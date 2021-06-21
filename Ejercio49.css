@@ -1,0 +1,7 @@
+<p>This paragraph has a background image.</p>
+
+p{
+    padding: 30px;
+    background-imagen: url("green_photo.jpg");
+    color:white;
+}
