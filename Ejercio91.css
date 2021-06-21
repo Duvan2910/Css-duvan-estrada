@@ -1,0 +1,20 @@
+<h1>This is Our Headline</h1>
+
+@font-face {
+    font-family: Delicious; 
+    src: url('Delicious-Roman.otf'); 
+  } 
+  @font-face { 
+    font-family: Delicious; 
+    font-weight: bold; 
+    src: url('Delicious-Bold.otf'); 
+  }
+  h1{
+     font-family: Delicious, sans-serif; 
+  }
+
+  @font-face { 
+    font-family: Delicious; 
+    src: url('Delicious-Roman.ttf');
+    src: url('Delicious-Roman.eot?#iefix'); 
+ }
