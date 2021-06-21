@@ -1,0 +1,15 @@
+p {
+
+ width: 350px;
+ border: 1px black solid;
+ position:fixed;
+}
+
+span {
+
+    background: green;
+    color:white;
+    position: relative;
+    top: 150%;
+    left: 50%;
+}
