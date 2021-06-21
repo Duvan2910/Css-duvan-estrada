@@ -1,0 +1,17 @@
+<h1>This is a heading</h1>
+<p>This is a paragraph</p>
+
+body {
+
+    background-color: #c0c0c0
+
+}
+
+h1{
+
+    background-color: rgb(135,206,235);
+}
+p{
+
+    background-color: lightseagreen;
+}
