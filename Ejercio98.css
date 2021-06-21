@@ -1,0 +1,20 @@
+div.firdt {
+
+    float: left;
+    width: 300px;
+    height: 100px;
+    margin: 4px;
+    color: #fff;
+
+    background: -moz-linear-gradient(top left,green);
+    
+}
+div.second {
+
+    float: left;
+    width: 300px;
+    height: 100px;
+    margin: 4px;
+    background: -moz-linear-gradient(green 5% yellow 15% blue 60%);
+    
+}
