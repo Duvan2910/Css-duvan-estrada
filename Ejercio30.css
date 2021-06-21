@@ -1,0 +1,8 @@
+<h1>Text-shadow example</h1>
+
+h1 {
+    color:blue;
+    font-size: 30pt;
+    text-shadow: 5px 2xp 4px grey;
+
+}
