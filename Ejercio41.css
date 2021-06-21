@@ -1,0 +1,28 @@
+<p class="first">
+    Border width of this paragraph is set to 2px.
+</p>
+<p class="second">
+    Border width of this paragraph is set to 5px.
+</p>
+ p.first {
+
+    padding: 10px
+    border-style: solid;
+    border-width:2px;
+ }
+ p.second {
+
+    padding: 10px
+    dorder-style: solid;
+    border-width:vertical5px;
+ }
+
+ <p class="first">
+   Border color has been created using <strong>color name.</strong>
+</p>
+<p class="second">
+   Border color has been created using <strong>Hex values.</strong> 
+</p>
+<p class="third">
+   Border color has been created using <strong>RGB values.</strong> 
+</p>
