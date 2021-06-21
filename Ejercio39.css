@@ -1,0 +1,25 @@
+<p class="pre"> 
+In the markup we have multiple            spaces 
+and a line break. 
+</p>
+<p class="preline"> 
+In the markup we have multiple            spaces 
+and a line break, but in the result multiple spaces are ignored. 
+</p>
+<p class="prewrap"> 
+In the markup we have              multiple 
+spaces and a line break.
+</p>
+
+p.pre {
+
+    white-space: pre;
+}
+p.preline {
+
+    white-space: pre-line;
+}
+p.prewrap{
+
+    white-space: pre-wrap;
+}
