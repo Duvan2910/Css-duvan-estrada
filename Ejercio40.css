@@ -1,0 +1,7 @@
+<p>This is an example of a solid border.</p>
+
+p{
+
+    padding:10px;
+    border: 5px solid green;
+}
