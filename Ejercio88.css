@@ -1,0 +1,9 @@
+::first-line {
+
+    color:#589432;
+}
+
+p::-moz-selection {
+    background: #8bc34a;
+    color:#fff;
+}
