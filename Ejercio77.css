@@ -1,0 +1,8 @@
+div {
+
+    width: 150px;
+    height: 150px;
+    background-color: lightskyblue;
+    float: left;
+    overflow: hidden;
+}
