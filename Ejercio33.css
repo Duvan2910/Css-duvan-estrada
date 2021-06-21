@@ -1,0 +1,12 @@
+<p class="uppercase">This value transforms all characters to uppercase.</p>
+<p class="lowercase">This value transforms all characters to lowercase.</p>
+
+p.uppercase {
+
+    text-transform: upeercase;
+}
+p.lowercase {
+
+    text-transform: lowercase;
+}
+
