@@ -1,0 +1,19 @@
+<div class="main">
+   <div class="paragraph">
+   This text is aligned to the middle
+   </div>
+</div>
+
+man. {
+
+   height:150px; width: 400px;
+   background-color: lightskyblu;
+   display: inline-table;
+}
+
+.paragraph {
+
+    display:table-cell;
+    vertical-align: middle;
+}
+
